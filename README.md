@@ -1,7 +1,9 @@
 Title: Spam News Detection
+
 Tools Used:
 - NumPy, Pandas, sklearn machine learning library
 - NLP (Natural Language Processing) model
+
 Working Procedure
 - **Importing essential libraries**: The project starts by importing the necessary libraries such as
 pandas and numpy.
